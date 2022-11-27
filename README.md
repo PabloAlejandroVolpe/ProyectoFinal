@@ -17,3 +17,12 @@
 # Uso
 *La aplicación fue deployada utilizando gh-pages y se puede acceder a la misma a través del siguiente link:*
 **https://pamarilla87.github.io/teclatonapp/**
+<img src="./fotosreadme/IMAGEN1.png"/>
+<img src="./fotosreadme/IMAGEN1.png"/>
+<img src="./fotosreadme/IMAGEN1.png"/>
+<img src="./fotosreadme/IMAGEN1.png"/>
+<img src="./fotosreadme/IMAGEN1.png"/>
+<img src="./fotosreadme/IMAGEN1.png"/>
+<img src="./fotosreadme/IMAGEN1.png"/>
+<img src="./fotosreadme/IMAGEN1.png"/>
+<img src="./fotosreadme/IMAGEN1.png"/>
