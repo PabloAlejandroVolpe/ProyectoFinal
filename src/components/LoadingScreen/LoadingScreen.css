@@ -1,0 +1,36 @@
+@font-face {
+    font-family: pros-nova;
+    src: url(../../fonts/Proxima-Nova.otf);
+}
+
+.loadingScreen {
+    font-family: pros-nova;
+    text-align: center;
+}
+
+.App-logo {
+    height: 30vh;
+    pointer-events: none;
+}
+
+
+body {
+    height: 500px;
+    background-color: #E7E7E7;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+        animation: App-logo-spin infinite 20s linear;
+    }
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}

@@ -1,0 +1,71 @@
+@font-face {
+    font-family: pros-nova;
+    src: url(../../fonts/Proxima-Nova.otf);
+}
+
+#root {
+    width: 100%;
+    margin: 5px;
+}
+
+#row-navbar-styles {
+    background-image: url(./hd-wallpaper-1867616_1920.jpg);
+    height: auto;
+    padding: 0.5em 2em;
+    font-family: pros-nova;
+}
+
+.nav-link{
+    font-size: 20px !important;
+    color: white!important;
+    font-weight: 400 !important;
+    padding-bottom: 0px !important;
+}
+
+#col-reset-side-pad {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#cont-reset-side-pad{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#just-end-to-center-nowrap {
+    justify-content: center;
+    flex-wrap: nowrap;
+
+}
+
+#just-start-nowrap {
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+.dropdown-menu.show {
+    background: #333 !important;
+}
+
+.dropdown-item {
+    color: #ffffff !important;
+    font-weight: bold !important;
+    font-family: pros-nova;
+    font-size: 13px;
+}
+
+.dropdown-item:hover {
+    background-color: #3483fa !important;
+}
+
+@media (min-width: 1200px) {
+    #just-end-to-center-nowrap {
+        justify-content: flex-end;
+        flex-wrap: nowrap;
+    }
+    
+    #just-start-nowrap {
+        justify-content: flex-start;
+        flex-wrap: nowrap;
+    }
+}
