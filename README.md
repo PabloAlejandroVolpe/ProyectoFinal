@@ -6,7 +6,7 @@
 1. Abrimos la consola de comando del gusto del que la utilize
 
 2. Clonamos el directorio
-`git clone https://github.com/PabloAlejandroVolpe/ProyectoReactDesafio2`
+`git clone https://github.com/PabloAlejandroVolpe/ProyectoFinal`
 
 3. Instalamos las dependencias completas
  `npm install`
