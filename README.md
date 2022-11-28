@@ -15,14 +15,13 @@
 `npm start`
     
 # Uso
-*La aplicación fue deployada utilizando gh-pages y se puede acceder a la misma a través del siguiente link:*
-**https://pamarilla87.github.io/teclatonapp/**
+*A continuacion, se muestra el funcionamiento del sitio*
 <img src="./fotosreadme/IMAGEN1.png"/>
-<img src="./fotosreadme/IMAGEN1.png"/>
-<img src="./fotosreadme/IMAGEN1.png"/>
-<img src="./fotosreadme/IMAGEN1.png"/>
-<img src="./fotosreadme/IMAGEN1.png"/>
-<img src="./fotosreadme/IMAGEN1.png"/>
-<img src="./fotosreadme/IMAGEN1.png"/>
-<img src="./fotosreadme/IMAGEN1.png"/>
-<img src="./fotosreadme/IMAGEN1.png"/>
+<img src="./fotosreadme/IMAGEN2.png"/>
+<img src="./fotosreadme/IMAGEN3.png"/>
+<img src="./fotosreadme/IMAGEN4.png"/>
+<img src="./fotosreadme/IMAGEN5.png"/>
+<img src="./fotosreadme/IMAGEN6.png"/>
+<img src="./fotosreadme/IMAGEN7.png"/>
+<img src="./fotosreadme/IMAGEN8.png"/>
+<img src="./fotosreadme/IMAGEN9.png"/>
